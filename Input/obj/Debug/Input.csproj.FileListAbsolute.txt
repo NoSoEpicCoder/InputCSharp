@@ -1,0 +1,10 @@
+C:\Users\Kevin\source\repos\Input\Input\obj\Debug\Input.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\Input\Input\obj\Debug\Input.Form1.resources
+C:\Users\Kevin\source\repos\Input\Input\obj\Debug\Input.Properties.Resources.resources
+C:\Users\Kevin\source\repos\Input\Input\obj\Debug\Input.csproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Input\Input\bin\Debug\Input.exe.config
+C:\Users\Kevin\source\repos\Input\Input\bin\Debug\Input.exe
+C:\Users\Kevin\source\repos\Input\Input\bin\Debug\Input.pdb
+C:\Users\Kevin\source\repos\Input\Input\obj\Debug\Input.exe
+C:\Users\Kevin\source\repos\Input\Input\obj\Debug\Input.pdb
